@@ -34,13 +34,13 @@ INSERT INTO `governorates` (`id`, `governorate_name_ar`, `governorate_name_en`) 
 (17, 'بني سويف', 'Beni Suef'),
 (18, 'بورسعيد', 'Port Said'),
 (19, 'دمياط', 'Damietta'),
-(21, 'الشرقية', 'Sharkia'),
-(22, 'جنوب سيناء', 'South Sinai'),
-(23, 'كفر الشيخ', 'Kafr Al sheikh'),
+(20, 'الشرقية', 'Sharkia'),
+(21, 'جنوب سيناء', 'South Sinai'),
+(22, 'كفر الشيخ', 'Kafr Al sheikh'),
 (23, 'مطروح', 'Matrouh'),  
 (24, 'الأقصر', 'Luxor'),
-(26, 'قنا', 'Qena'),
-(20, 'شمال سيناء', 'North Sinai'),
+(25, 'قنا', 'Qena'),
+(26, 'شمال سيناء', 'North Sinai'),
 (27, 'سوهاج', 'Sohag');
 
 ALTER TABLE `cities`
